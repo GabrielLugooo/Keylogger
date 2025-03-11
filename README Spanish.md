@@ -22,6 +22,7 @@ El keylogger es una herramienta útil para comprender el funcionamiento de la ca
 ### Herramientas Usadas
 
 ![Static Badge](https://img.shields.io/badge/Python-000000?logo=python&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/keyboard-000000?logo=keyboard&logoSize=auto)
 
 - Python
 - Biblioteca `keyboard`

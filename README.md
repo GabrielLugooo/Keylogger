@@ -22,6 +22,7 @@ The keylogger is a useful tool for understanding how keyboard event capturing wo
 ### Tools Used
 
 ![Static Badge](https://img.shields.io/badge/Python-000000?logo=python&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/keyboard-000000?logo=keyboard&logoSize=auto)
 
 - Python
 - `keyboard` library
